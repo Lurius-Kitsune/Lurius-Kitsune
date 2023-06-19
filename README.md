@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋
+
 ![GitStats](https://github-readme-stats-one-bice.vercel.app/api?username=Lurius-Kitsune&include_all_commits=true&show_icons=true&title_color=7affcc&text_color=387eff&icon_color=00f5f1a&role=OWNER,ORGANIZATION_MEMBER&bg_color=00000000)
 
 <!--

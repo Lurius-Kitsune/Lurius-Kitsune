@@ -1,11 +1,11 @@
 <h1 align="center">Hellow 👋, I'm Lucas</h1>
 <h3 align="center">Passionate about programming and specialized in web and game programming, from France</h3>
 
-# 💫 About Me:
-🌱 I’m currently learning Unreal & Unity in OBJECTIF 3D In Montpellier
-👨‍💻 All of my projects are available at lucasfox.tech
-📫 How to reach me lucasfox@outlook.fr
-⚡ Fun fact I'm a weirdo that loves programming :D
+# 💫 About Me:<br>
+🌱 I’m currently learning Unreal & Unity in OBJECTIF 3D In Montpellier <br>
+👨‍💻 All of my projects are available at lucasfox.tech<br>
+📫 How to reach me lucasfox@outlook.fr<br>
+⚡ Fun fact I'm a weirdo that loves programming :D<br>
 
 
 ## 🌐 Socials:

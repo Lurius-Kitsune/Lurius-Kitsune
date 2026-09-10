@@ -3,7 +3,7 @@
 
 # 💫 About Me:<br>
 🌱 I’m currently learning Unreal & Unity in OBJECTIF 3D In Montpellier <br>
-👨‍💻 All of my projects are available at lucasfox.tech<br>
+👨‍💻 All of my projects are available at https://portfolio.lucasfox.eu<br>
 📫 How to reach me lucasfox@outlook.fr<br>
 ⚡ Fun fact I'm a weirdo that loves programming :D<br>
 
